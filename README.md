@@ -1,16 +1,28 @@
-## Hi there 👋
+# Futura Programadora 😎
 
-<!--
-**MariaEnilorac/MariaEnilorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 😊
+Olá! Meu nome é Maria Caroline, sou uma estudante de programação apaixonada por aprender. Atualmente, estou focada em aprender JavaScript e outras tecnologias web.
 
-Here are some ideas to get you started:
+## Objetivos 😉
+- Desenvolver pequenos projetos para praticar minhas habilidades
+- Contribuir para projetos open-source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias 
+- HTML
+- CSS
+- JavaScript
+- React
+- PHP
+- Git e GitHub
+
+## Projetos 🖥️
+Aqui estão alguns dos projetos que estou desenvolvendo:
+
+1. **Site de loja**: Um site simples com HTML, CSS e JavaScript.
+2. **Site Pessoal**: Meu portfólio online onde compartilho meus projetos e aprendizados.
+
+## Contato📱
+- **Email**: [karolfcjc@gmail.com](mailto:karolfcjc@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/maria-caroline-adriano](www.linkedin.com/in/maria-caroline-adriano)
+
+Obrigado por me visitar! Fique à vontade para explorar meus projetos e entrar em contato.😉
