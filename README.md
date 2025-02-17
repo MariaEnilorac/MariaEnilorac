@@ -22,7 +22,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 2. **Site Pessoal**: Meu portfólio online onde compartilho meus projetos e aprendizados.
 
 ## Contato📱
-- **Email**: [karolfcjc@gmail.com](mailto:karolfcjc@gmail.com)
+- **Email**: [karolfcjc@gmail.com](mailto:mariacaroline.adriano@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/maria-caroline-adriano](www.linkedin.com/in/maria-caroline-adriano)
 
 Obrigado por me visitar! Fique à vontade para explorar meus projetos e entrar em contato.😉
